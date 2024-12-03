@@ -1,0 +1,22 @@
+
+
+.btn {
+    margin: 10px 0;
+}
+.start{
+    margin-top: 20px;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url();
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+.container-fluid{
+    background: url('land.jfif')
+}
+
+
